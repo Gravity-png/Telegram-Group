@@ -32,6 +32,7 @@
 
 | **导航名称**       | **链接**                                           |
 |-----------------|---------------------------------------------------|
+| **🔥电报会员代开🔥** | [https://shop.tg10000.com](https://shop.tg10000.com) |
 | **🛫机场VPN导航站🛫** | [https://jichangvpn.github.io](https://jichangvpn.github.io) |
 | **🎯Telegram频道群组导航站🎯** | [https://tgdh.github.io](https://tgdh.github.io)或[https://tg10000.com](https://tg10000.com) |
 | **🎯AI导航站🎯** | [https://ai-navs.github.io](https://ai-navs.github.io) |

@@ -22,10 +22,10 @@
 </div>
 
 <!-- BEGIN_REPLACE_SECTION -->
-| [![@TG最强搜索机器人](https://i.imgur.com/uTMZCDf.png)<br>@TG最强搜索机器人](https://t.me/sosoo?start=a_7737195905) | [![全网最低价代开电报会员/Telegram 会员代开三个月/ 半年/ 一年/代开会员/电报会员/代充会员/电报会员/Telegram会员代开/Telegram代开会员](https://i.imgur.com/KKAbeyp.png)<br>全网最低价代开电报会员](http://shop.tg10000.com)    | [![@极搜JiSo](https://i.imgur.com/we9lyse.jpeg)<br>@极搜JiSo](https://t.me/jiso?start=a_7202424896) |
+| [![@TG最强搜索机器人](https://i.imgur.com/uTMZCDf.png)<br>@TG最强搜索机器人](https://t.me/sosoo?start=a_7202424896) | [![全网最低价代开电报会员/Telegram 会员代开三个月/ 半年/ 一年/代开会员/电报会员/代充会员/电报会员/Telegram会员代开/Telegram代开会员](https://i.imgur.com/KKAbeyp.png)<br>全网最低价代开电报会员](http://shop.tg10000.com)    | [![@极搜JiSo](https://i.imgur.com/we9lyse.jpeg)<br>@极搜JiSo](https://t.me/jiso?start=a_7202424896) |
 |:---:|:---:|:---:|
-|[![@极搜JiSou](https://i.imgur.com/1VoAGvh.png)<br>@极搜JiSou](https://t.me/jisou2bot?start=a_7737195905) |  [![Telegram频道导航/TG导航/Telegram频道推荐/Telegram导航/频道导航/电报导航/电报推荐/TG推荐](https://i.imgur.com/31YFV0f.png)<br>Telegram频道导航](https://tgdh.github.io) |[![@i快搜](https://i.imgur.com/CsCtOBH.png)<br>@i快搜](https://t.me/ikuaisobot?start=7352210715)|
-| [![搜片神器](https://i.imgur.com/SVox0Se.png)<br>搜片神器](https://t.me/soupianshenqibar)  |  [![色色搜索](https://i.imgur.com/pwNAjvK.png)<br>❤️色色搜索🔞](https://t.me/sesouccav) | [![暗网搜索](https://i.imgur.com/woGNZUA.png)<br>暗网搜索](https://t.me/anwangbots)|
+|[![@极搜JiSou](https://i.imgur.com/1VoAGvh.png)<br>@极搜JiSou](https://t.me/jisou2bot?start=a_7202424896) |  [![Telegram频道导航/TG导航/Telegram频道推荐/Telegram导航/频道导航/电报导航/电报推荐/TG推荐](https://i.imgur.com/31YFV0f.png)<br>Telegram频道导航](https://tgdh.github.io) |[![@i快搜](https://i.imgur.com/CsCtOBH.png)<br>@i快搜](https://t.me/ikuaisobot?start=7352210715)|
+| [![搜片神器](https://i.imgur.com/SVox0Se.png)<br>搜片神器](https://t.me/soupian20w)  |  [![色色搜索](https://i.imgur.com/pwNAjvK.png)<br>❤️色色搜索🔞](https://t.me/sese20w) | [![暗网搜索](https://i.imgur.com/woGNZUA.png)<br>暗网搜索](https://t.me/anwang007)|
 | [![彩虹群发破解版/飞机/电报Telegram tdata/低价TG账号/电报资源搜索](https://i.imgur.com/xff6d05.png)<br>电报稀缺资源大全中文搜索](https://t.me/sousuohp)|  [![彩虹群发器/彩虹群发/彩虹群发器破解版](https://i.imgur.com/6a8Zz9h.png)<br>彩虹群发器破解版](https://t.me/autocaihongbot?start=gwHypTpEnF84wUi)  |[![机场导航](https://i.imgur.com/yhw5VPW.png)<br>机场导航大全](https://jichangvpn.github.io/)|
 <!-- END_REPLACE_SECTION -->
 </table>
@@ -57,7 +57,6 @@
 | 🔥 aiso中文搜索     | [https://t.me/aiso](https://t.me/aiso?start=telegram_7202424896)       | 中文资源搜索引擎             |
 | 🔥 哆啦A梦软件App| [https://t.me/dlamapp](https://t.me/dlamapp) | 各种软件、App和VPN破解资源    |
 | 🔥 人设包装套图| [https://t.me/renshebz](https://t.me/renshebz) | 在外面身份都是自己给的    |
-| 🔥 NSFW| [https://github.com/telegrampron/telegram-nsfw](https://github.com/telegrampron/telegram-nsfw) | 电报极品频道，懂的都懂    |
 | 🔥 色瓜中心| [https://t.me/seguazhongxin](https://t.me/seguazhongxin) | 分享全网第一热瓜|
 | 🔥 全网直播回放      | [https://t.me/luzhiob](https://t.me/luzhiob)   | 直播回放资源，涵盖抖音、斗鱼等  |
 | 🎥 阿里云盘4K高清资源  | [https://t.me/alidriver4k](https://t.me/alidriver4k) | 阿里云盘的4K高清资源分享      |
@@ -66,14 +65,7 @@
 | 🔥 环球巴士         | [https://universalbus.cn](https://universalbus.cn) | 全球一站式合租平台，支持多平台  |
 | 🔥 账号星球         | [https://www.accountboy.com](https://www.accountboy.com/?source=tggroup) | 苹果全球id，GPT/奈飞合租，海外社媒账号/邮箱  |
 | 🚀 机场VPN推荐       | [https://aff3.lnk66.com](https://aff3.lnk66.com/#/register?code=1PA22Khq) | 免费试用！一键连接，高速稳定，轻松解锁 GPT，极速畅享全球网络！         |
-| 🔞 推特女菩萨      | [https://t.me/+RSwm4w2RoUA4N2Nl](https://t.me/+RSwm4w2RoUA4N2Nl)  |  骗子    |
-| 🔞 女神聚集地       | [https://t.me/+59_7EXqZ5n41MDQ1](https://t.me/+59_7EXqZ5n41MDQ1) |    骗子  |
-| 🔞 不良少女         | [https://t.me/+SUetv8Cm-wEzM2Zl](https://t.me/+SUetv8Cm-wEzM2Zl) |      骗子|
-| 🔞 女大学生         | [https://t.me/+2YKEZY5yVNk2Zjlk](https://t.me/+2YKEZY5yVNk2Zjlk) |      骗子|
-| 🔞 反差女神         | [https://t.me/+lfxbfShuv702MmI0](https://t.me/+lfxbfShuv702MmI0) |      骗子|
-| 🔞 性瘾女子         | [https://t.me/+5WinFB1V_Q1jZWZl](https://t.me/+5WinFB1V_Q1jZWZl) |      骗子|
-| 🔞 女大学生         | [https://t.me/+1x3qUvIpO8gwZGZl](https://t.me/+1x3qUvIpO8gwZGZl) |      骗子|
-| 🔞 天天约炮         | [https://t.me/+XIGBTvAczrsyOWZk](https://t.me/+XIGBTvAczrsyOWZk) |      骗子|
+
 
 ### 搜索群大全
 

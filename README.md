@@ -4,7 +4,7 @@
 -->
 <div align="center">
 【电报推荐】10000+ 优质Telegram群组、Telegram频道推荐、频道和机器人，精心筛选，让您轻松玩转Telegram。<br>
- <a>Telegram中文频道:</a> <a href="https://t.me/tgcn_wiki">@tgcn_wiki</a>  <a>官方网站:</a> <a href="https://telegramnav.github.io">tg10000.com</a>  <a>商务合作:</a> <a href="https://t.me/tghzsx_bot">@tghzsx_bot</a><br>
+ <a>Telegram中文频道:</a> <a href="https://t.me/tgcn_wiki">@tgcn_wiki</a>  <a>官方网站:</a> <a href="https://telegramnav.github.io">https://telegramnav.github.io</a>  <a>商务合作:</a> <a href="https://t.me/tghzsx_bot">@tghzsx_bot</a><br>
 ⚡️向下单地址转入TRX 6秒自动到能量<br>
 下单地址: <code>TRKC4Mx1SAAHyBfFEN4bmQUKGugypFBF7J</code><br>
 🟩1笔USDT转帐能量: 3TRX<br>
@@ -16,9 +16,9 @@
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 | SOSO机器人  | [@soso](https://t.me/soso?start=a_6294881820)                     | 发送关键词来寻找群组、频道或视频           |
-| 极搜JiSo   | [@jiso](https://t.me/jiso?start=a_2114110836)                       | 帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
+| 极搜JiSo   | [@jiso](https://t.me/jiso?start=a_7439567495)                       | 帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | 极搜JiSou  | [@jisou2bot](https://t.me/jisou2bot?start=a_6294881820)             | 帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
-| 快搜  | [@kuaisou1_bot](https://t.me/kuaisou1_bot?start=a_6294881820)             | 帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
+| 快搜  | [@kuaisou1_bot](https://t.me/kuaisou1_bot?start=a_7202424896)             | 帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | i快搜      | [@ikuaisobot](https://t.me/ikuaisobot?start=7352210715)             | 再小的个体也有自己的品牌。                 |
 | AISO       | [@aiso](https://t.me/aiso?start=telegram_6294881820)                | 查找群组、频道、影视、音乐或机器人         |
 | 神马搜索   | [@smss](https://t.me/smss?start=spread_6294881820)                  | 发送词语即可搜索关联群组与频道资源         |

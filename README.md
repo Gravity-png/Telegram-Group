@@ -6,10 +6,6 @@
 【电报推荐】10000+ 优质Telegram群组、Telegram频道推荐、频道和机器人，精心筛选，让您轻松玩转Telegram。<br>
   ❗️严禁中国大陆用户使用，请遵守当地法律法规，一切产生的法律问题，均与本项目无关❗️<br>
  <a>Telegram中文频道:</a> <a href="https://t.me/tgcn_wiki">@tgcn_wiki</a>  <a>官方网站:</a> <a href="https://telegramnav.github.io">https://telegramnav.github.io</a>  <a>商务合作:</a> <a href="https://t.me/tghzsx_bot">@tghzsx_bot</a><br>
-⚡️向下单地址转入TRX 6秒自动到能量<br>
-下单地址: <code>TRKC4Mx1SAAHyBfFEN4bmQUKGugypFBF7J</code><br>
-🟩1笔USDT转帐能量: 3TRX<br>
-🟨2笔USDT转帐能量: 6TRX
 </div>
 
 ### 搜索机器人(❗️中文用户名，如张三，使用就送USDT❗️多使用以下搜索，否则玩不明白电报)
@@ -34,7 +30,7 @@
 | 搜索群②   | [@jisou20w](https://t.me/jisou20w)            | 可以在里面搜索你想要的一切   |
 | 搜索群③   | [@jisou200000](https://t.me/jisou200000)            | 可以在里面搜索你想要的一切   |
 | 搜索群④   | [@sepiansousuo](https://t.me/sepiansousuo)            | 可以在里面搜索你想要的一切   |
-| 币圈区块链各类常用工具   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰财务自由必备币圈导航   |
+| 币圈导航   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰财务自由必备币圈导航   |
 | 🍉 吃瓜吧 | [https://t.me/chiguabar](https://t.me/chiguabar) | 分享全网第一个热瓜      |
 | 微信同城交友 | [https://t.me/+RSwm4w2RoUA4N2Nl](https://t.me/+RSwm4w2RoUA4N2Nl) |  骗子    |
 | 匿名配对 | [https://t.me/+o_pZ4NuhsOAwY2Zl](https://t.me/+o_pZ4NuhsOAwY2Zl)|  骗子(Scammer)    |

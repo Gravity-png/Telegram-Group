@@ -53,7 +53,7 @@
 | 频道导航网站      | 效果查看：[tg10000.com](https://tg10000.com) | ¥200           |
 | 独角数卡网站      | 效果查看：[shop.tg10000.com](https://shop.tg10000.com) | 单网站:¥100，网站+对接支付:¥200           |
 | 彩虹群发、强拉、炒群破解版(送便宜号商地址)                 | 软件下载地址:[网盘地址](https://pan.baidu.com/s/18NYmzhaSKx2x4KnfcAaqNg?pwd=u5vw),使用教程:[视频教程](https://www.youtube.com/watch?v=t09ZIz3k-i4),自助购买:[@autocaihongbot](https://t.me/autocaihongbot?start=gwHypTpEnF84wUi) | ¥200             |
-| 每日节点机器人      | 效果查看：[@meirijiedian](https://t.me/meirijiedian) |   源码+搭建:50U    |
+| 每日免费节点机器人      | 效果查看：[@meirijiedian](https://t.me/meirijiedian) |   源码+搭建:50U    |
 | 番号搜索机器人      | 效果查看：[@fanhaosearchbot](https://t.me/fanhaosearchbot) |   源码+搭建:50U    |
 <div style="display: flex; justify-content: space-between;">
   <img src="https://i.imgur.com/9E65XRH.png" alt="彩虹群发器破解版免费" style="width: 30%;"/>

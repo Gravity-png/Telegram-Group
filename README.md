@@ -32,7 +32,7 @@
 | 搜索群④   | [@sepiansousuo](https://t.me/sepiansousuo)            | 可以在里面搜索你想要的一切   |
 | 币圈导航   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰财务自由必备币圈导航   |
 | 🍉 吃瓜吧 | [https://t.me/chiguabar](https://t.me/chiguabar) | 分享全网第一个热瓜      |
-| 微信同城交友 | [https://t.me/+RSwm4w2RoUA4N2Nl](https://t.me/+RSwm4w2RoUA4N2Nl) |  骗子    |
+| 微信同城交友 | [https://t.me/+RSwm4w2RoUA4N2Nl](https://t.me/+RSwm4w2RoUA4N2Nl) |  骗子(Scammer)    |
 | 匿名配对 | [https://t.me/+o_pZ4NuhsOAwY2Zl](https://t.me/+o_pZ4NuhsOAwY2Zl)|  骗子(Scammer)    |
 | 同城速约 | [https://t.me/+m-ZUpzp5OsQ2MTg1](https://t.me/+m-ZUpzp5OsQ2MTg1)|  骗子(Scammer)    |
 | x瘾集中营 | [https://t.me/+f3HV64OS8ykxMjNk](https://t.me/+f3HV64OS8ykxMjNk)|  骗子(Scammer)    |

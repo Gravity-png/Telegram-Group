@@ -61,7 +61,7 @@
 | Trx能量兑换机器人源码           | Trx能量闪兑机器人[@trxaotemanbot](https://t.me/trxaotemanbot)+[trx.tg10000.com](https://trx.tg10000.com)的源码，免费帮开能量代理  |      200U       |
 | 频道导航网站      | 效果查看：[tg10000.com](https://tg10000.com) | ¥200           |
 | 独角数卡网站      | 效果查看：[shop.tg10000.com](https://shop.tg10000.com) | 单网站:¥150，网站+对接支付:¥300或40U，请准备服务器和域名           |
-| 彩虹群发、强拉、炒群破解版(送便宜号商地址)                 | 软件下载地址:[网盘地址](https://pan.baidu.com/s/18NYmzhaSKx2x4KnfcAaqNg?pwd=u5vw),使用教程:[视频教程](https://www.youtube.com/watch?v=t09ZIz3k-i4),自助购买:[@autocaihongbot](https://t.me/autocaihongbot?start=gwHypTpEnF84wUi) | ¥200             |
+| 彩虹群发、强拉、炒群破解版(送便宜号商地址)                 | 软件下载地址:[网盘地址](https://pan.baidu.com/s/18NYmzhaSKx2x4KnfcAaqNg?pwd=u5vw),使用教程:[视频教程](https://www.youtube.com/watch?v=t09ZIz3k-i4),自助购买:[@autocaihongbot](https://t.me/autocaihongbot?start=gwHypTpEnF84wUi) | ¥200  [搭建教程](https://www.bilibili.com/video/BV13b5izgE28)            |
 | 每日免费节点机器人      | 效果查看：[@meirijiedian](https://t.me/meirijiedian) |   源码+搭建:50U    |
 | 番号搜索机器人      | 效果查看：[@fanhaosearchbot](https://t.me/fanhaosearchbot) |   源码+搭建:50U    |
 <div style="display: flex; justify-content: space-between;">

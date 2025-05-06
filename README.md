@@ -24,7 +24,7 @@
 | 🔥能量租赁🔥   | [@trxnbot](https://t.me/trxnbot)                  | 买能量，租能量，兑换TRX。通知群:[@xiunvtrx](https://t.me/xiunvtrx)         |
 | 电报哥的网络店铺   | [https://shop.tg10000.com](https://shop.tg10000.com)            | 一些和电报有关的产品服务，低价代充电报会员3月/109、6月/149、12月/259 ，频道：[@tg2vip](https://t.me/tg2vip)  |
 | 🎨电报第一P图大师   | [@p8826](https://t.me/p8826)                  |  专业PS P图/头像/会员文字，大厂设计师服务包满意      |
-| Telegram电报会员机器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付，1秒克隆同款机器人   |
+| 💎电报会员机器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付，1秒克隆同款机器人   |
 | 🚀每日免费节点   | [https://vpnnav.github.io](https://vpnnav.github.io)               | 每天整点准时更新免费高速节点,永久高速节点[@yongjiuvpnbuybot](https://t.me/yongjiuvpnbuybot)  |
 | 🌈彩虹群发器   | [@autocaihongbot](https://t.me/autocaihongbot)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
 | 免费频道搬运机器人   | [@xiunvbanyun](https://t.me/xiunvbanyun)            | 免费机器人[@xnby003bot](https://t.me/xnby003bot) 搭建[@banyunpindao](https://t.me/banyunpindao) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)，支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运，频道涨粉神器💰  |

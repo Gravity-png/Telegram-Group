@@ -172,7 +172,7 @@ Telegram 汉化，解除 +86 限制和 IOS 进屏蔽群以及账号注销等教�
 
 | 名字                  | 链接                                                                 | 功能描述                                   |
 | :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| 按钮机器人                | [@buttonfree_bot](https://t.me/buttonfree_bot/)                 | 轻松给你的帖子加上各种按钮，永久免费试用         |
+| 按钮机器人      | [@xiunvanniubot](https://t.me/xiunvanniubot)       | 轻松实现按钮广告，方便引流推广挣钱，[视频教程](https://www.youtube.com/watch?v=B3KePS-6bSc)  |
 | nmBot                 | [@nmnmfunbot](https://t.me/nmnmfunbot/)                             | 柠动聊天，好戏连篇(简称尼玛机器人)         |
 | Group Help            | [@GroupHelpBot](https://t.me/GroupHelpBot/)                         | 轻松管理你的群组                           |
 | Rose                  | [@MissRose_bot](https://t.me/MissRose_bot/)                         | 实用的Telegram群组管理机器人               |

@@ -34,7 +34,7 @@
 | 搜索群④   | [@sepiansousuo](https://t.me/sepiansousuo)            | 可以在里面搜索你想要的一切   |
 | 搜索群⑤   | [@kuaisou20w](https://t.me/kuaisou20w)            | 可以在里面搜索你想要的一切   |
 | ❤️色色搜索   | [@daohangsese](https://t.me/daohangsese)            | 可以在里面搜索你想要的一切   |
-| 🎥搜片神器   | [@soupian1314](https://t.me/soupian1314)            | 发送视频名字即可找到你想要看的片子  |
+| 🎥搜片神器   | [@soupianshenqi1314](https://t.me/soupianshenqi1314)            | 发送视频名字即可找到你想要看的片子  |
 | 币圈导航   | [www.0xnav.com](https://www.0xnav.com)          | 💰财务自由必备币圈导航   |
 | GMGN抓金狗百倍币   | [@gmgnaibot](https://t.me/gmgnaibot?start=i_L2wVVjGF)         | 💰GMGN 是加密货币领域最强大的数据分析平台  |
 | 🍉 吃瓜吧 | [https://t.me/chiguabar](https://t.me/chiguabar) | 分享全网第一个热瓜      |

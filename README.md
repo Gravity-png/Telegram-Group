@@ -7,9 +7,11 @@
   ❗️严禁中国大陆用户使用，请遵守当地法律法规，一切产生的法律问题，均与本项目无关❗️<br>
  <a>Telegram中文频道:</a> <a href="https://t.me/tgcn_wiki">@tgcn_wiki</a>  <a>官方网站:</a> <a href="https://dianbaodaohang.com">https://dianbaodaohang.com</a>  <a>商务合作:</a> <a href="https://t.me/tghzsx_bot">@tghzsx_bot</a><br>
   ❗️国内用户(包括台湾省)电报名字最好使用<strong>中文</strong>，由于协议号泛滥，英文名字容易被风控封号❗️<br>
+  <br>
 </div>
 
 <img src="https://i.imgur.com/ywjcaE6.png" alt="USDT">
+
 ### 搜索机器人(❗️中文用户名，如张三，使用就送USDT❗️多使用以下搜索，否则玩不明白电报)
 
 | 名字       | 链接                                                                 | 功能描述                                   |

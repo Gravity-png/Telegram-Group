@@ -41,7 +41,7 @@
 | 撸空投💰币圈💰Web3   | [@tglukongtou](https://t.me/tglukongtou)         | 💰分享最新前沿的空投资讯，奔向财务自由之路 |
 | GMGN抓金狗百倍币   | [@gmgnaibot](https://t.me/gmgnaibot?start=i_L2wVVjGF)         | 💰GMGN 是加密货币领域最强大的数据分析平台  |
 | 🍉 吃瓜无限 | [https://t.me/chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网第一个热瓜      |
-| 亚马逊云AWS免费一年云服务器   | [https://aws.amazon.com](https://aws.amazon.com/cn/free?trk=5645d003-8563-4118-ba13-400329fd83d9&sc_channel=sm)            | 白嫖一年的云服务器 |
+| Telegram电报僵尸粉                             | [@tgxiunv](https://t.me/tgxiunv)          | 1000人/¥10，稳定30天不掉落  |
 
 ### 曝光不良频道
 | 名字       | 链接                                                                 | 功能描述                                   |

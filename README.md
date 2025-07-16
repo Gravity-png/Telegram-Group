@@ -35,7 +35,7 @@
 | 搜索群③   | [@jisoubar](https://t.me/jisoubar)            | 极搜吧可以在里面搜索你想要的一切   |
 | 搜索群④   | [@sepiansousuo](https://t.me/sepiansousuo)            | 可以在里面搜索你想要的一切   |
 | 搜索群⑤   | [@kuaisou20w](https://t.me/kuaisou20w)            | 可以在里面搜索你想要的一切   |
-| ❤️色色搜索   | [@chengrencctv](https://t.me/chengrencctv)             | 可以在里面搜索你想要的一切   |
+| ❤️色色搜索   | [@seseccavsese](https://t.me/seseccavsese)             | 可以在里面搜索你想要的一切   |
 | Portals   | [@portals](https://t.me/portals/market?startapp=6294881820)            | Telegram NFT市场最近大热，价格翻了几十倍   |
 | Tonnel_network_bot   | [@Tonnel_network_bot](https://t.me/tonnel_network_bot/gifts?startapp=ref_6294881820)            | Telegram NFT市场最近大热，价格翻了几十倍   |
 | 币圈导航   | [@biquandaohang](https://t.me/biquandaohang)         | 💰分享最新前沿的币圈热门资讯、空投资讯，祝各位奔向财务自由之路  |
